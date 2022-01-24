@@ -16,8 +16,7 @@
 
 ### A Few Quick Facts
 
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm currently getting my hands dirty with [Data Structures and Algorithms](https://github.com/burpcat/APT)
+- I'm currently getting my hands dirty with [Data Structures and Algorithms](https://github.com/burpcat/APT)
 - After a deep mindless discussion , I decided to start learning Java 🤪
 - I love python to the ends of the world, and currently learning Flask
 - 🛠 Recently completed a AWS Cloud Architecting course, and interested to learn DevOps
