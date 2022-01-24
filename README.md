@@ -12,11 +12,20 @@
 
 ### About Me 🚀
 - Hey there fellas, Im a pre final electronics undergraduate at [@BVRIT-N](https://www.bvrit.ac.in)**</br>
-- Iam a **Tech enthusiast and I love contributing ideas to new projects. <br>
+- Iam a **Tech enthusiast** and I love contributing ideas to new projects. <br>
 
 ### A Few Quick Facts
 
-- I'm currently getting my hands dirty with [Data Structures and Algorithms](https://github.com/burpcat/APT)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm currently getting my hands dirty with [Data Structures and Algorithms](https://github.com/burpcat/APT)
 - After a deep mindless discussion , I decided to start learning Java 🤪
 - I love python to the ends of the world, and currently learning Flask
 - 🛠 Recently completed a AWS Cloud Architecting course, and interested to learn DevOps
+- 🚀 Check my [Resume](https://github.com/burpcat/burpcat/blob/main/Avinash_Reddy.pdf) out!
+- I love watching Anime ❤️ !
+
+<details>
+    <summary>Tech I know😄</summary>
+        <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+</details>
