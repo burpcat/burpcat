@@ -32,7 +32,6 @@
         <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
         <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
         <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-        <code><img height="30" src="ttps://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 </details>
 
 ### 🚀 Quick Stats
