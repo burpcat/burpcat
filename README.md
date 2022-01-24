@@ -27,5 +27,14 @@
     <summary>Tech I know😄</summary>
         <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
         <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+        <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
+        <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+        <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 </details>
+
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=burpcat&show_icons=true&line_height=21&theme=react" alt="burpcat's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burpcat&theme=react&line_height=27&layout=compact" />
+</p>
