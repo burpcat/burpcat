@@ -12,7 +12,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/burpcat)
 
 ### About Me 🚀
-- Hey there fellas, Im a pre final electronics undergraduate at [@BVRIT-N](https://www.bvrit.ac.in)**</br>
+- Hey there fellas, Im a pre final electronics undergraduate at **[@BVRIT-N](https://www.bvrit.ac.in)**</br>
 - Iam a **Tech enthusiast** and I love contributing ideas to new projects. <br>
 
 ### A Few Quick Facts
