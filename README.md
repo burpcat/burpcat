@@ -40,6 +40,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burpcat&theme=react&line_height=27&layout=compact" />
 </p>
 
+### Oh Snap! Whats this 🐍
+![snake gif](https://github.com/burpcat/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Okay, I assume this Readme is good since you downloaded this 
 
