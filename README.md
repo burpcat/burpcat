@@ -18,8 +18,9 @@
 ### A Few Quick Facts
 
 - I'm currently getting my hands dirty with [Data Structures and Algorithms](https://github.com/burpcat/APT)
-- After a deep mindless discussion , I decided to start learning Java 🤪
-- I love python to the ends of the world, and currently learning Flask
+- I thought I hated Java, but here Iam learning it. 🤪
+- I love working with Python, and currently learning Django.
+- Learning PostgreSQL from Scratch
 - 🛠 Recently completed a AWS Cloud Architecting course, and interested to learn DevOps
 - 🚀 Check my [Resume](https://github.com/burpcat/burpcat/blob/main/Avinash_Reddy.pdf) out!
 - I love watching Anime ❤️ !
