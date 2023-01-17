@@ -6,24 +6,28 @@
 ![profile count](https://komarev.com/ghpvc/?username=burpcat&color=blue)
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/burpcat/)](https://github.com/Defcon27/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinasharutla/)](https://www.linkedin.com/in/avinasharutla)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/burpcat)](https://www.hackerrank.com/burpcat)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/burpcat)
 
 ### About Me 🚀
-- Hey there fellas, Im a pre final electronics undergraduate at **[@BVRIT-N](https://www.bvrit.ac.in)**.</br>
-- Iam a **Tech enthusiast** and I love contributing ideas to new projects. <br>
+- Hey there fellas, Im a final yeaar electronics undergraduate at **[@BVRIT-N](https://www.bvrit.ac.in)** interested in software engineering and distributed systems.</br>
+- In general I'm a **Tech enthusiast**, and I love to talk, contribute or build new ideas and products.<br>
+- I'm currently publishing two papers, in Blockchain IoT and ML IoT respectively.
 
 ### A Few Quick Facts
 
-- I'm currently getting my hands dirty with [Data Structures and Algorithms](https://github.com/burpcat/APT)
-- I thought I hated Java, but here Iam learning it. 🤪
-- I love working with Python, and currently learning Django.
-- Learning PostgreSQL from Scratch
+- !!! There's gonna be a new product out soon with OpenAI GPT-3 API, stay tuned!!!
+- Im currently learning golang, to get working with kuberenetes.
+- I love working with Python, and currently learning FastAPI.
 - 🛠 Recently completed a AWS Cloud Architecting course, and interested to learn DevOps
-- 🚀 Check my [Resume](https://github.com/burpcat/burpcat/blob/main/Avinash_Reddy.pdf) out!
+- 🚀 Check my [Resume](https://github.com/burpcat/burpcat/blob/main/Resume.pdf) out!
+- Please check my [work GitHub](https://www.github.com/avinash-shiryam) so I can flex!
 - I love watching Anime ❤️ !
+
+### I write real good
+- [Getting started with git](https://dev.to/burpcat/getting-started-with-git-5pi)
+- More in progress 😉.
 
 <details>
     <summary>Tech I know😄</summary>
