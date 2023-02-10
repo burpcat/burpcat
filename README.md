@@ -11,7 +11,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/burpcat)
 
 ### About Me 🚀
-- Hey there fellas, Im a final yeaar electronics undergraduate at **[@BVRIT-N](https://www.bvrit.ac.in)** interested in software engineering and distributed systems.</br>
+- Hey there fellas, Im a final year electronics undergraduate at **[@BVRIT-N](https://www.bvrit.ac.in)** interested in software engineering and distributed systems.</br>
 - In general I'm a **Tech enthusiast**, and I love to talk, contribute or build new ideas and products.<br>
 - I'm currently publishing two papers, in Blockchain IoT and ML IoT respectively.
 
